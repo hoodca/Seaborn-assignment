@@ -1,0 +1,7 @@
+SEABORN ASSIGNMENT SUMMARY
+
+Exercise Data Conclusion:
+Running changed pulse the most in this class sample, rising by about 29.9 beats per minute from the 1-minute mark to the 30-minute mark. Rest changed very little (about 1.2 beats per minute), and walking stayed in the middle. The No Fat group had somewhat higher pulse averages overall, but the much bigger story is that harder exercise makes the heart work more. That is the main takeaway to share with elementary students from this dataset.
+
+Planets Dataset Conclusion:
+The yearly discovery line plot best highlights a notable pattern: planet detections surged over time and peaked in 2011 with 354 planets recorded in this dataset. The count plot supports that story by showing how strongly methods such as Radial Velocity dominate exoplanet discovery records, which helps explain why some kinds of planets appear more often than others in the rest of the graphs.
